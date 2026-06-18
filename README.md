@@ -82,13 +82,16 @@ HomeLoanDefault/
 ├── home_loan_def.ipynb
 ├── README.md
 └── .gitignore
+└── license
+
 ```
 
 ## Author
 
 **P Satyashry**
 
-* LinkedIn: https://www.linkedin.com/in/satyashry
+GitHub: https://github.com/satyashry
+LinkedIn: https://www.linkedin.com/in/psatyashry24/
 
 ## Project Status
 
