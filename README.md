@@ -91,7 +91,7 @@ HomeLoanDefault/
 **P Satyashry**
 
 GitHub: https://github.com/satyashry
-LinkedIn: https://www.linkedin.com/in/psatyashry24/
+LinkedIn: https://www.linkedin.com/in/satyashry/
 
 ## Project Status
 
